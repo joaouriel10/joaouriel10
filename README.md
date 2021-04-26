@@ -6,12 +6,12 @@ My name is Joao Uriel, I am 22 years old and most of the time I spend developing
 ### :clipboard: Technologies:
 
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  !<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  !<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
+  <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+  <code><img height="30" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 ### 🚀 Tools
 
