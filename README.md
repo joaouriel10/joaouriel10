@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my GitHub 🎇
-My name is Joao Uriel, I am 22 years old and most of the time I spend developing in PHP, NodeJS and NodeTs, I continue to learn React. Below you can find the areas in which I work and / or study.
+My name is Joao Uriel, I am 24 years old and most of the time I spend developing in PHP, NodeJS and NodeTs, I continue to learn React. Below you can find the areas in which I work and study.
 
 ### :clipboard: Technologies:
 
