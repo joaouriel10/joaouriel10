@@ -26,8 +26,3 @@ My name is Joao Uriel, I am 24 years old and most of the time I spend developing
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </details> 
-  
-<br/>
-
-[![Joao Uriel stats](https://github-readme-stats.vercel.app/api?username=joaouriel10&theme=tokyonight)](https://github.com/joaouriel10)
-[![Joao Uriel stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaouriel10&hide=html&layout=compact&theme=tokyonight)](https://github.com/joaouriel10)
